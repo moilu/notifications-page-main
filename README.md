@@ -1,4 +1,5 @@
 # notifications-page-main
+Pet project from Front End mentor.
 
 ## Project setup
 ```
